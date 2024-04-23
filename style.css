@@ -14,6 +14,11 @@ h1{
     font-style: italic;
     font-weight: 400;
 }
+p{    
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    
+}
 body{
     background-image:url(legend-of-zelda-netflix.avif);
 }
