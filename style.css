@@ -24,7 +24,8 @@ body{
 }
 main{
     display: flex;
-    justify-content: center;
+    justify-content: center;   
+    flex-direction: column;
 }
 img{
     width: 600px;
